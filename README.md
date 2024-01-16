@@ -1,4 +1,4 @@
-# project-sensortile
+# Wearable Motion Detector 
 
 ## Introduction
 This is a machine learning system that enables a SensorTile device to autonomously recognize and classify motion patterns. Each motion pattern consists of two consecutive steps of motion. For example, Motion 1 consists of "Rotate Left" and "No Motion" and Motion 3 consists of "Tilt forward" and "Tilt Up." 
